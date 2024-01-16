@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="1000"/>
+  <div id="badges">
+  <a href="https://t.me/vit10x">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
