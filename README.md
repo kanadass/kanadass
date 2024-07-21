@@ -66,8 +66,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanadass&include_all_commits=true&show_icons=true&locale=en" alt="kanadass" /></p>
 
 
-### 😂 Random IT-meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kanadass&icon=0&color=0)](https://visitcount.itsvg.in)
